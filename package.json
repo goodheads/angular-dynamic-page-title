@@ -1,0 +1,23 @@
+{
+  "name": "pagetitle",
+  "version": "1.0.0",
+  "description": "Repo for generating dynamic page title for angular apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodheads/angular-dynamic-page-title.git"
+  },
+  "author": "Mustapha babatunde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodheads/angular-dynamic-page-title/issues"
+  },
+  "homepage": "https://github.com/goodheads/angular-dynamic-page-title#readme",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0"
+  }
+}
