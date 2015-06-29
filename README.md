@@ -1,2 +1,3 @@
 # angular-dynamic-page-title
-Repo for generating dynamic page title for angular apps
+
+Simple directory to dynamically change page titles using angular-ui-router
